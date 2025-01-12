@@ -22,19 +22,19 @@ const TeamSection = () => {
     {
       name: 'John Smith',
       role: 'CEO',
-      image: '/api/placeholder/96/96',
+      image: 'people.svg',
       description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum. Lorem ipsum dolor sit amet consectetur adipisicing elit.'
     },
     {
       name: 'Lina Williams',
       role: 'Design Lead',
-      image: '/api/placeholder/96/96',
+      image: 'people.svg',
       description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum. Lorem ipsum dolor sit amet consectetur adipisicing elit.'
     },
     {
       name: 'John Smith',
       role: 'Developer',
-      image: '/api/placeholder/96/96',
+      image: 'people.svg',
       description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum. Lorem ipsum dolor sit amet consectetur adipisicing elit.'
     }
   ];
