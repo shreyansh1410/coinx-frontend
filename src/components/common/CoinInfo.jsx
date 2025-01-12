@@ -7,7 +7,7 @@ const CoinInfo = ({ coinData }) => {
   const { price, details } = coinData;
 
   return (
-    <div className="flex flex-col gap-4">
+    <div className="flex flex-col gap-4 mx-24">
       <div className="flex items-center gap-2">
         <img src={details.image.small} alt={details.name} className="w-8 h-8" />
         <h1 className="text-2xl font-bold">{details.name}</h1>
